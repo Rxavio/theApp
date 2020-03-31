@@ -1,0 +1,11 @@
+body{
+    background-color: #c1c1c1;
+    color: #FFF;
+  }
+  .container{
+    background: rgb(20, 214, 214);
+    color: #FFF;
+    width: 90%;
+    height: 500px;
+  }
+  
